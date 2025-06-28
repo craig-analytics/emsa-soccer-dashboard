@@ -60,4 +60,17 @@ This is my **first self-guided analytics project**, built entirely from scratch 
   `SUMIF`, `IF`, `NOW`, `RANK.EQ`, `COUNTIFS`, `PivotTables`, `Slicers`, Conditional Formatting
 
 ---
+## 📁 File Structure
 
+/project-files/
+└── EMSA_Soccer_League_Dashboard.xlsx
+/docs/
+└── Dashboard_Screenshot.pdf
+README.md
+
+---
+
+## 📎 Next Steps
+
+- Explore converting this dashboard into **Power BI**
+- Expand logic for multi-division or multi-round tournaments
