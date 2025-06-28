@@ -62,11 +62,10 @@ This is my **first self-guided analytics project**, built entirely from scratch 
 ---
 ### 📁 File Structure
 ```
-/docs/
-└── Dashboard_Screenshot.pdf
-/project-files/
-└── EMSA_Soccer_League_Dashboard.xlsx
-README.md
+📦 emsa-soccer-dashboard
+├── Dashboard_Screenshot.pdf
+├── EMSA_Soccer_League_Dashboard.xlsx
+└── README.md
 ```
 
 ---
