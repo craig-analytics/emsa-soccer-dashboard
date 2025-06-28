@@ -60,13 +60,14 @@ This is my **first self-guided analytics project**, built entirely from scratch 
   `SUMIF`, `IF`, `NOW`, `RANK.EQ`, `COUNTIFS`, `PivotTables`, `Slicers`, Conditional Formatting
 
 ---
-## 📁 File Structure
-
+### 📁 File Structure
+```
 /project-files/
 └── EMSA_Soccer_League_Dashboard.xlsx
 /docs/
 └── Dashboard_Screenshot.pdf
 README.md
+```
 
 ---
 
