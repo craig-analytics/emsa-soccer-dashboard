@@ -1,6 +1,6 @@
 # ⚽ EMSA Youth Soccer League Dashboard – Excel Project
 
-This is my **first self-guided analytics project**, built entirely from scratch using real data from my son's U9 soccer league. The league shares match scores but does **not publish team standings** for divisions under age 10. I created this dashboard to analyze team performance, calculate points, and track standings.
+This is my **first self-guided analytics project**, built entirely from scratch using real data from my son's soccer league. The league shares match scores but does **not publish team standings** for divisions under age 10. I created this dashboard to analyze team performance, calculate points, and track standings.
 
 ---
 
@@ -9,9 +9,9 @@ This is my **first self-guided analytics project**, built entirely from scratch 
 - Designed in **Microsoft Excel** with auto-calculated standings
 - Built to simulate a live league table (3 pts for a win, 1 for draw)
 - Structured into 3 clear tabs:
+  - **Dashboard**: team stats and rankings
   - **Data**: manual score input
   - **Helper**: logic & calculations (date/time, match status)
-  - **Dashboard**: team stats and rankings
 
 ---
 
